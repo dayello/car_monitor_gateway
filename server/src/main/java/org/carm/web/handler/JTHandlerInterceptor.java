@@ -1,7 +1,7 @@
 package org.carm.web.handler;
 
-import io.github.yezhihao.netmc.core.HandlerInterceptor;
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.core.HandlerInterceptor;
+import org.carm.netmc.session.Session;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 import org.carm.protocol.basics.JTMessage;

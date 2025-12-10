@@ -1,6 +1,6 @@
 package org.carm.web.endpoint;
 
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.session.Session;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 import org.carm.commons.spring.SSEService;

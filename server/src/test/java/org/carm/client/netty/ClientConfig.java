@@ -1,7 +1,7 @@
 package org.carm.client.netty;
 
-import io.github.yezhihao.netmc.codec.MessageDecoder;
-import io.github.yezhihao.netmc.codec.MessageEncoder;
+import org.carm.netmc.codec.MessageDecoder;
+import org.carm.netmc.codec.MessageEncoder;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 
 public class ClientConfig {

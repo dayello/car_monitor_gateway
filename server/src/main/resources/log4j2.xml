@@ -34,17 +34,17 @@
             <AppenderRef ref="Console"/>
         </Root>
 
-        <logger name="io.github.yezhihao.netmc.session.Session" level="info">
+        <logger name="org.carm.netmc.session.Session" level="info">
             <AppenderRef ref="AccessLog"/>
             <AppenderRef ref="Console"/>
         </logger>
 
-        <logger name="io.github.yezhihao.netmc.handler.TCPMessageAdapter" level="info">
+        <logger name="org.carm.netmc.handler.TCPMessageAdapter" level="info">
             <AppenderRef ref="AccessLog"/>
             <AppenderRef ref="Console"/>
         </logger>
 
-        <logger name="io.github.yezhihao.netmc.handler.UDPMessageAdapter" level="info">
+        <logger name="org.carm.netmc.handler.UDPMessageAdapter" level="info">
             <AppenderRef ref="AccessLog"/>
             <AppenderRef ref="Console"/>
         </logger>

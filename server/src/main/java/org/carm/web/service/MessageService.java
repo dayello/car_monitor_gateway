@@ -1,7 +1,7 @@
 package org.carm.web.service;
 
-import io.github.yezhihao.netmc.session.Session;
-import io.github.yezhihao.netmc.session.SessionManager;
+import org.carm.netmc.session.Session;
+import org.carm.netmc.session.SessionManager;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 import org.carm.commons.model.APIException;

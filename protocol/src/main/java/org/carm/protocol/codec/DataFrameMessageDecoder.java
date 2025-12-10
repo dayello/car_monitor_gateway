@@ -1,6 +1,6 @@
 package org.carm.protocol.codec;
 
-import io.github.yezhihao.netmc.util.ByteBufUtils;
+import org.carm.netmc.util.ByteBufUtils;
 import io.github.yezhihao.protostar.SchemaManager;
 import io.github.yezhihao.protostar.schema.RuntimeSchema;
 import io.netty.buffer.ByteBuf;

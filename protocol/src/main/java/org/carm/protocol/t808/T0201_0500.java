@@ -1,6 +1,6 @@
 package org.carm.protocol.t808;
 
-import io.github.yezhihao.netmc.core.model.Response;
+import org.carm.netmc.core.model.Response;
 import io.github.yezhihao.protostar.annotation.Field;
 import io.github.yezhihao.protostar.annotation.MergeSuperclass;
 import io.github.yezhihao.protostar.annotation.Message;

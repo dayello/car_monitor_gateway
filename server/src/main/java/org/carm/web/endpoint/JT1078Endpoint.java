@@ -1,8 +1,8 @@
 package org.carm.web.endpoint;
 
-import io.github.yezhihao.netmc.core.annotation.Endpoint;
-import io.github.yezhihao.netmc.core.annotation.Mapping;
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.core.annotation.Endpoint;
+import org.carm.netmc.core.annotation.Mapping;
+import org.carm.netmc.session.Session;
 import org.springframework.stereotype.Component;
 import org.carm.protocol.t1078.T1003;
 import org.carm.protocol.t1078.T1005;

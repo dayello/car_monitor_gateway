@@ -1,6 +1,6 @@
 package org.carm.web.model.vo;
 
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.session.Session;
 import org.carm.protocol.commons.transform.attribute.*;
 import org.carm.protocol.t808.T0200;
 import org.carm.web.model.entity.DeviceDO;

@@ -1,6 +1,6 @@
 package org.carm.web.handler;
 
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.session.Session;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufUtil;
 import lombok.extern.slf4j.Slf4j;

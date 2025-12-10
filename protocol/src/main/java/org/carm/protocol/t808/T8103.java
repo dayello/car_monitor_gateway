@@ -1,6 +1,6 @@
 package org.carm.protocol.t808;
 
-import io.github.yezhihao.netmc.util.AdapterMap;
+import org.carm.netmc.util.AdapterMap;
 import io.github.yezhihao.protostar.annotation.Field;
 import io.github.yezhihao.protostar.annotation.Message;
 import io.swagger.v3.oas.annotations.media.Schema;

@@ -2,9 +2,9 @@ package org.carm.web.endpoint;
 
 import com.github.benmanes.caffeine.cache.Cache;
 import com.github.benmanes.caffeine.cache.Caffeine;
-import io.github.yezhihao.netmc.core.annotation.Endpoint;
-import io.github.yezhihao.netmc.core.annotation.Mapping;
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.core.annotation.Endpoint;
+import org.carm.netmc.core.annotation.Mapping;
+import org.carm.netmc.session.Session;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

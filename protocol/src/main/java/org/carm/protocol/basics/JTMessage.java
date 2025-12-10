@@ -1,8 +1,8 @@
 package org.carm.protocol.basics;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import io.github.yezhihao.netmc.core.model.Message;
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.core.model.Message;
+import org.carm.netmc.session.Session;
 import io.github.yezhihao.protostar.annotation.Field;
 import io.github.yezhihao.protostar.util.ToStringBuilder;
 import io.netty.buffer.ByteBuf;

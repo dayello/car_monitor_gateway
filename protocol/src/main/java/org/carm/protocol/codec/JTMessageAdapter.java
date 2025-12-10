@@ -1,8 +1,8 @@
 package org.carm.protocol.codec;
 
-import io.github.yezhihao.netmc.codec.MessageDecoder;
-import io.github.yezhihao.netmc.codec.MessageEncoder;
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.codec.MessageDecoder;
+import org.carm.netmc.codec.MessageEncoder;
+import org.carm.netmc.session.Session;
 import io.github.yezhihao.protostar.SchemaManager;
 import io.github.yezhihao.protostar.util.Explain;
 import io.netty.buffer.ByteBuf;

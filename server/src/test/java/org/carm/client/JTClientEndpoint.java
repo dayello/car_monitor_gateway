@@ -1,7 +1,7 @@
 package org.carm.client;
 
-import io.github.yezhihao.netmc.core.annotation.Endpoint;
-import io.github.yezhihao.netmc.core.annotation.Mapping;
+import org.carm.netmc.core.annotation.Endpoint;
+import org.carm.netmc.core.annotation.Mapping;
 import lombok.extern.slf4j.Slf4j;
 import org.carm.protocol.basics.JTMessage;
 import org.carm.protocol.commons.JT808;

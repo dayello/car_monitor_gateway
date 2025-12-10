@@ -1,10 +1,10 @@
 package org.carm.web.endpoint;
 
-import io.github.yezhihao.netmc.core.annotation.Async;
-import io.github.yezhihao.netmc.core.annotation.AsyncBatch;
-import io.github.yezhihao.netmc.core.annotation.Endpoint;
-import io.github.yezhihao.netmc.core.annotation.Mapping;
-import io.github.yezhihao.netmc.session.Session;
+import org.carm.netmc.core.annotation.Async;
+import org.carm.netmc.core.annotation.AsyncBatch;
+import org.carm.netmc.core.annotation.Endpoint;
+import org.carm.netmc.core.annotation.Mapping;
+import org.carm.netmc.session.Session;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.carm.protocol.t808.*;

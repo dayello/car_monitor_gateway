@@ -1,7 +1,7 @@
 package org.carm.client;
 
-import io.github.yezhihao.netmc.util.Client;
-import io.github.yezhihao.netmc.util.Stopwatch;
+import org.carm.netmc.util.Client;
+import org.carm.netmc.util.Stopwatch;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufUtil;
 import io.netty.buffer.Unpooled;

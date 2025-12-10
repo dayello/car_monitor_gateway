@@ -1,8 +1,8 @@
 package org.carm.client.netty;
 
-import io.github.yezhihao.netmc.core.annotation.Endpoint;
-import io.github.yezhihao.netmc.core.annotation.Mapping;
-import io.github.yezhihao.netmc.util.ClassUtils;
+import org.carm.netmc.core.annotation.Endpoint;
+import org.carm.netmc.core.annotation.Mapping;
+import org.carm.netmc.util.ClassUtils;
 import lombok.SneakyThrows;
 
 import java.lang.reflect.Method;

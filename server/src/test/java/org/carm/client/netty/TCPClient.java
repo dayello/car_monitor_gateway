@@ -1,6 +1,6 @@
 package org.carm.client.netty;
 
-import io.github.yezhihao.netmc.core.model.Message;
+import org.carm.netmc.core.model.Message;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufUtil;
